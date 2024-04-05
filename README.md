@@ -3,7 +3,7 @@ Catch The Kenny Game is a simple iOS game developed using Swift. The objective o
 
 
 # How to Play
-Clone the repository to your local machine:
+- Clone the repository to your local machine:
 ```
 git clone https://github.com/huseyinozenalbayrak/CatchTheKennyGame.git
 ```
